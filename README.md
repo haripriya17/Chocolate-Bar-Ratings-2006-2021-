@@ -11,7 +11,12 @@ This project explores over 2,500 chocolate bar reviews from 2006 to 2021, analyz
   - Cocoa percentage  
   - Bean type and origin  
   - Review score / rating  
-  - Country of production  
+  - Country of production
+
+**Tools Used:**  
+- **Python & Jupyter Notebook** → Data cleaning, analysis, and visualization  
+- **Tableau Public** → Interactive dashboards & storytelling  
+- **Excel** → Initial data exploration and preparation
 
 ## Key Insights
 - Most chocolate bars are rated between 3.0–4.0.  
@@ -34,3 +39,5 @@ This project explores over 2,500 chocolate bar reviews from 2006 to 2021, analyz
 - Learn from top-rated companies’ production and flavor practices.  
 - Monitor evolving consumer preferences to refine recipes and flavor profiles.  
 
+Explore the interactive Tableau dashboard here:  
+[Global Chocolate Ratings Dashboard](https://public.tableau.com/app/profile/haripriya.m4784/viz/Book1_17593494685200/Story1?publish=yes) 
